@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "@types/figma": "^1.0.3",
+    "typescript": "^3.8.3"
+  }
+}
